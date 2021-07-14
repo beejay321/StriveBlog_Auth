@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Uche",
+        "surname": "Ilechukwu",
+        "email": "uc@gmail.com",
+        "createdAt": "2021-05-19T01:15:50.084Z",
+        "_id": "fb46b4kourxdj9"
+    },
+    {
+        "name": "Busola",
+        "surname": "Jibodu",
+        "email": "busola.jibodu@gmail.com",
+        "Date of Birth": "10.07.1992",
+        "createdAt": "2021-05-19T01:38:54.431Z",
+        "_id": "fb46d2wkousr1pd"
+    },
+    {
+        "name": "Tobi",
+        "surname": "Afolabi",
+        "email": "TA@gmail.com",
+        "Date of Birth": "18.05.1991",
+        "_id": "fb46cm4kous24xh"
+    }
+]
